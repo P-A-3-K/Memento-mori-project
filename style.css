@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+}
+div {
+    margin-left: 21%;
+    margin-right: 21%;
+    color: white;
+    font-family: Libre Baskerville, static;
+    text-align: center;
+}
+img {
+    height: 100%;
+    width: 100%;
+    border: 2px solid white;
+}
+
+
